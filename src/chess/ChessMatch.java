@@ -185,7 +185,6 @@ public class ChessMatch {
 				piecesOnTheBoard.remove(capturedPiece);
 			}
 		}
-
 		return capturedPiece;
 	}
 
