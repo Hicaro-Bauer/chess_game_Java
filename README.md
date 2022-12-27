@@ -16,7 +16,7 @@ Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto
 <img src="https://user-images.githubusercontent.com/105173431/209588771-a45fd74c-91da-4bd9-a838-b64d1cb34a0b.png" />
 
 <br/><br/>
-<h3> O sistema permite que seja visualizado os movimentos possíveis para cada peça. </h3>
+<h2> O sistema permite que seja visualizado os movimentos possíveis para cada peça. </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209588845-de315eb9-f821-4fb0-8cf6-b4b70b3275f2.png" />
 <br/>
 <img src="https://user-images.githubusercontent.com/105173431/209588833-9278c243-d4bf-4c4c-9d99-f9858d1d304a.png" />
@@ -30,7 +30,7 @@ Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto
 <img src="https://user-images.githubusercontent.com/105173431/209589040-25459b52-cf7b-4098-83c0-1e9eeb160683.png" />
 
 <br/><br/>
-<h3> Movimentos Especiais também são permitidos, como por exemplo a tomada em passagem, roque curto e grande e promoções de peões. </h3>
+<h2> Movimentos Especiais também são permitidos, como por exemplo a tomada em passagem, roque curto e grande e promoções de peões. </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209589180-bd9c1431-4d07-42ca-b581-2e95509edc84.png" />
 <br/>
 <img src="https://user-images.githubusercontent.com/105173431/209589190-867f0ef9-056d-42e6-99a7-9de4e21199f2.png" />
@@ -39,6 +39,6 @@ Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto
 <br/>
 
 <br/><br/>
-<h3> Por fim, o CheckMate. </h3>
+<h2> Por fim, o CheckMate. </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209589231-0354ef7d-cdc8-4c41-8ea6-869026f24d63.png" />
 
