@@ -22,7 +22,7 @@ Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto
 <img src="https://user-images.githubusercontent.com/105173431/209588833-9278c243-d4bf-4c4c-9d99-f9858d1d304a.png" />
 
 <br/><br/>
-<h3> As peças capturadas são exibidas por meio de Listas. <br/>Em caso de CHECK, uma mensagem pode ser visualizada. Nessa ocasião, o jogador é obrigado a retirar o seu Rei do estado de Check, caso contrário, o programa irá exibir uma excessão. </h3>
+<h3> <p align="justify"> As peças capturadas são exibidas por meio de Listas. <br/>Em caso de CHECK, uma mensagem pode ser visualizada. Nessa ocasião, o jogador é obrigado a retirar o seu Rei do estado de Check, caso contrário, o programa irá exibir uma excessão. </p> </h3>
 <img src="https://user-images.githubusercontent.com/105173431/209588978-72c8649c-8f36-4a6f-836e-1c14829d28a9.png" />
 <br/>
 <img src="https://user-images.githubusercontent.com/105173431/209589035-e1598b0b-4e46-4630-97ed-063a00d2b7c1.png" />
