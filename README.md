@@ -1,5 +1,5 @@
-# chess_game_Java
-<p align="center">Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto, foi possível assimular profundamente os temas relacionados à programação Orientada a Objetos.</p>
+<p align="center"># chess_game_Java
+Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto, foi possível assimular profundamente os temas relacionados à programação Orientada a Objetos.</p>
 <div align="center">
 <h2> Diagrama de Classes </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209588655-741b4557-5189-4062-b9ea-3f7ec7c9645b.png" />
