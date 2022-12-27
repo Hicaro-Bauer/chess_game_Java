@@ -1,6 +1,6 @@
 # chess_game_Java
 Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto, foi possível assimular profundamente os temas relacionados à programação Orientada a Objetos.
-
+<div align="center">
 <h2> Diagrama de Classes </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209588655-741b4557-5189-4062-b9ea-3f7ec7c9645b.png" />
 
@@ -41,4 +41,4 @@ Jogo de Xadrez desenvolvido com auxílio de um instrutor. Por meio desse projeto
 <br/><br/>
 <h2> Por fim, o CheckMate. </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209589231-0354ef7d-cdc8-4c41-8ea6-869026f24d63.png" />
-
+</div>
